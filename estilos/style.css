@@ -76,14 +76,13 @@ div.campo > i {
 }
 
 div.campo > input {
-    background-color: #64c2bf;
+    background-color: #78eeea;
     font-size: 1em;
-    width: calc(100% - 50px);
-    height: 90%;
+    width: calc(100% - 46px);
+    height: 92%;
     border: 0px;
-    border-radius: 8px;
     padding: 4px;
-    transform: translateY(-11px);
+    transform: translateY(-10.5px);
 }
 
 div.campo > input:focus-within {
@@ -91,11 +90,11 @@ div.campo > input:focus-within {
 }
 
 form > div.campo {
-    background-color: #5f2c82;
+    background-color: #7d3ca8;
     display: block;
     width: 98%;
     height: 40px;
-    border-radius: 8px;
+    border-radius: 0px;
     margin: 5px 0px;
 }
 
